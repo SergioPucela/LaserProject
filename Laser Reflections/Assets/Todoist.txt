@@ -1,0 +1,4 @@
+- Si estoy mirando al lado contrario del espejo (del que viene el laser),
+que se invierta la rotación horizontal (*-x --> x).
+
+- Diseñar puzle con placeholders para testear sensación de juego.
